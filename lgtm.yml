@@ -1,0 +1,4 @@
+extraction:
+  cpp:
+    command:
+      - scons . platform=x11
